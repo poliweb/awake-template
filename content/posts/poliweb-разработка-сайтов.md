@@ -1,5 +1,5 @@
 ---
-title: "PoliWeb разработка сайтов "
+title: "PoliWeb "
 subtitle: Веб студия
 category:
   - Third Party Integrations
